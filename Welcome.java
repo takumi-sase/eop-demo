@@ -3,4 +3,8 @@ public class Welcome{
 
         System.out.println("hello");
     }
+
+    public static void methodA(){
+        System.out.println("welcome");
+    }
 }
